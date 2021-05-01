@@ -1,5 +1,7 @@
 FROM arm32v7/alpine
 
+COPY qemu-arm-static /usr/bin
+
 WORKDIR /usr/bin/
 RUN                                                                    \
     apk add --no-cache curl                                         && \
