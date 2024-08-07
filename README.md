@@ -1,5 +1,6 @@
-minio-mc-arm
-============
+**This project has been moved to <https://github.com/altaris/minio-arm>**
+
+# minio-mc-arm
 
 A [minio](https://min.io/) client docker image for ARM. Inspired from
 [this](https://github.com/pixelchrome/minio-arm) and
